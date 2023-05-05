@@ -1,0 +1,31 @@
+{
+  "name": "generate-random-sentence",
+  "version": "1.0.1",
+  "description": "Generate Random Sentence is an NPM package designed to help developers generate random sentences using JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/mohdahsanrazakhan/generate-random-sentence)"
+  },
+  "keywords": [
+    "string-generator",
+    "random-sentence",
+    "string",
+    "sentence",
+    "title",
+    "world",
+    "article",
+    "nonsense",
+    "randomize",
+    "random",
+    "randomly",
+    "chance",
+    "test",
+    "fake"
+  ],
+  "author": "md_mark",
+  "license": "MIT"
+}
